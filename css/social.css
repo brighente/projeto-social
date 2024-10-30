@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
+
+img{
+    width: 100vw;
+}
+
+a{
+    display: block;
+    background-color: rgb(158, 32, 32);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding: 20px;
+}
+
+a:hover{
+    background-color: red;
+}
